@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Shuttlefly</string>
+    <string name="eButton">E</string>
+    <string name="dButton">D</string>
+    <string name="cButton">C</string>
+    <string name="bButton">B</string>
+    <string name="aButton">A</string>
+    <string name="startButton">START</string>
+    <string name="levelTextView">Level</string>
+    <string name="rallyLengthTextView">Rally</string>
+    <string name="homeButton">HOME</string>
+    <string name="againButton">AGAIN</string>
+    <string name="seekBarText">20</string>
+    <string name="speedTextView">Speed</string>
+    <string name="speedSeekBarText">5</string>
+    <string name="setCountTextView">Set Count</string>
+    <string name="restTextView">Rest Time</string>
+    <string name="restSeekBarText">0</string>
+    <string name="setSeekBarText">1</string>
+    <string name="helpButton">Help</string>
+    <string name="challengeButton">Challenge Mode</string>
+    <string name="fullCourt">Full Court</string>
+    <string name="sixCorners">Six Corners</string>
+    <string name="fourCorners">Four Corners</string>
+    <string name="netReturns">Net Returns</string>
+    <string name="dropReturns">Drop Returns</string>
+    <string name="smashReturns">Smash Returns</string>
+    <string name="clearReturns">Clear Returns</string>
+    <string name="twoCorners">Two Corners</string>
+    <string name="restButton">REST INTERVAL</string>
+    <string name="resumeButton">RESUME</string>
+    <string name="challengeModeTitle1">Lin Dan vs Lee Chong Wei</string>
+    <string name="challengeModeTitle2">Longest Men\'s Single Rally</string>
+    <string name="challengeModeTitle3">Longest Women\'s Single Rally</string>
+    <string name="comingSoon">MORE COMING SOON!</string>
+    <string name="speedChallenge">SPEED CHALLENGE</string>
+    <string name="staminaChallenge">STAMINA CHALLENGE</string>
+
+</resources>
