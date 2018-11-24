@@ -25,13 +25,12 @@ public class SplashScreen extends AppCompatActivity {
                 {
                     finish();
                     Intent i = new Intent();
-                    i.setClassName("lichengzheng.ztrainer","lichengzheng.ztrainer.HomeScreen");
+                    i.setClassName("lichengzheng.ztrainer","lichengzheng.ztrainer.NewHomeScreen");
                     startActivity(i);
                 }
             }
         };
         splashThread.start();
-
     }
 
 }
